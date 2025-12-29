@@ -1,43 +1,86 @@
-<h1 align="center">Hi 👋, I'm Macherla Sai Mani Kumar</h1>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=300&section=header&text=Hello,%20I'm%20Sai%20Mani&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Engineering%20Intelligent%20Systems%20%26%20Scalable%20Solutions&descAlignY=51&descAlign=62" alt="Sai Mani Header" width="100%" />
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+  <p>
+    <a href="https://www.linkedin.com/in/sai-mani-macherla-5a16072a2/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:macherlasaimani@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://drive.google.com/file/d/1iGHTjeNTDMC5jjdfW84uyEm53PynlKPb/view?usp=drive_link" target="_blank">
+      <img src="https://img.shields.io/badge/Resume-FF5722?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" />
+    </a>
+  </p>
+</div>
 
-- 🎓 I'm currently studying B.Tech in CSE (AI) at *Amrita Vishwa Vidyapeetham*
-- 📧 Reach me at: **macherlasaimani@gmail.com**
+---
+
+### 👨‍💻 **About Me**
+
+I am a **Computer Science & AI Undergraduate** at **Amrita Vishwa Vidyapeetham** with a **9.65 CGPA**. I specialize in bridging the gap between theoretical AI models and practical, scalable engineering. My work focuses on building intelligent interfaces, IoT ecosystems, and full-stack web applications.
+
+- 🎓 **Academics:** B.Tech CSE-AI (Rank Holder)
+- ☁️ **Cloud:** AWS Certified Cloud Practitioner
+- 🧠 **Research:** Working on *Battery Remaining Useful Life using Boosting*
+- 🏆 **Competitive Coding:** Solved **200+** problems (LeetCode, HackerRank, CodeChef)
+
+---
+
+### 🛠 **Tech Stack**
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
   
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/sai-mani-macherla-5a16072a2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sai-mani-macherla" height="30" width="40" /></a>
-<a href="https://github.com/saimani1232" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="saimani1232" height="30" width="40" /></a>
-</p>
+  <br />
+  
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/> </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> </a> 
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="express" width="40" height="40" style="background:white;border-radius:5px;"/> </a> 
-  <a href="https://reactjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40"/> </a> 
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/> </a> 
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="django" width="40" height="40"/> </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" alt="sqlite" width="40" height="40"/> </a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a>
-  <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" alt="pycharm" width="40" height="40"/> </a>
-  <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="intellij" width="40" height="40"/> </a>
-  <a href="https://www.eclipse.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" alt="eclipse" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/> </a>
-</p>
+---
 
-<div align=center>
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saimani1232&count_private=true&theme=react&border_radius=10" alt="saimani1232" /></p>
+### 🚀 **Featured Projects**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saimani1232&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="saimani1232" /></p>
-  <br/>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saimani1232&&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="saimani1232" /></p>
+| Project | Description | Key Tech |
+| :--- | :--- | :--- |
+| **🤖 GestroBot** | Real-time **gesture-controlled interface** for a 3D humanoid robot. Uses MediaPipe for accurate hand landmark detection to control movement commands like Forward/Stop. | `Python` `OpenCV` `Unreal Engine` |
+| **🎙️ VoiceBridge** | Voice-controlled IoT ecosystem integrated with **Alexa & AWS Lambda**. Achieved **99% command accuracy** in simulated environments for virtual hardware control. | `AWS Lambda` `Alexa Skills Kit` `IoT` |
+| **🍎 Smart Bite** | Smart food management system using **OCR** to track expiry dates. Reduced food waste by **40%** through automated email alerts and recipe suggestions. | `Flask` `Tesseract OCR` `SMTP` |
+| **⛈️ StormSignal** | Real-time weather notification system that sends email alerts for rain forecasts. | `Python` `Weather API` `Flask` |
+
+---
+
+### 📊 **GitHub Stats**
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=saimani1232&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Sai Mani's Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saimani1232&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" height="150" />
+</div>
+
+<div align="center">
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saimani1232&theme=tokyonight&hide_border=true&background=0d1117" alt="Streak Stats" width="80%" />
+</div>
+
+---
+
+### 🏆 **Achievements & Certifications**
+
+- **AWS Certified Cloud Practitioner**
+- **NPTEL Elite Certification:** "Joy of Computing using Python"
+- **5-Star Gold Badge:** Python & Java (HackerRank)
+- **Top 5%:** LeetCode Global Ranking (Problem Solving)
+
+---
+<div align="center">
+  <small>Profile updated by <a href="https://github.com/saimani1232">Macherla Sai Mani Kumar</a></small>
 </div>
