@@ -1,86 +1,170 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=300&section=header&text=Hello,%20I'm%20Sai%20Mani&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Engineering%20Intelligent%20Systems%20%26%20Scalable%20Solutions&descAlignY=51&descAlign=62" alt="Sai Mani Header" width="100%" />
-
-  <p>
-    <a href="https://www.linkedin.com/in/sai-mani-macherla-5a16072a2/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="mailto:macherlasaimani@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-    <a href="https://drive.google.com/file/d/1iGHTjeNTDMC5jjdfW84uyEm53PynlKPb/view?usp=drive_link" target="_blank">
-      <img src="https://img.shields.io/badge/Resume-FF5722?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" />
-    </a>
-  </p>
-</div>
-
----
-
-### 👨‍💻 **About Me**
-
-I am a **Computer Science & AI Undergraduate** at **Amrita Vishwa Vidyapeetham** with a **9.65 CGPA**. I specialize in bridging the gap between theoretical AI models and practical, scalable engineering. My work focuses on building intelligent interfaces, IoT ecosystems, and full-stack web applications.
-
-- 🎓 **Academics:** B.Tech CSE-AI (Rank Holder)
-- ☁️ **Cloud:** AWS Certified Cloud Practitioner
-- 🧠 **Research:** Working on *Battery Remaining Useful Life using Boosting*
-- 🏆 **Competitive Coding:** Solved **200+** problems (LeetCode, HackerRank, CodeChef)
-
----
-
-### 🛠 **Tech Stack**
-
-<div align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
   
-  <br />
+# 👋 Hey there, I'm Sai Mani Kumar!
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&random=false&width=600&lines=CS+%2B+AI+Engineering+Student;Full+Stack+Developer;Problem+Solver+%7C+200%2B+Problems;AWS+Cloud+Practitioner;Building+Cool+Stuff+%F0%9F%9A%80" alt="Typing SVG" />
+
+[![Email](https://img.shields.io/badge/Email-macherlasaimani%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:macherlasaimani@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Saimani-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/Saimani)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SaimaniMacherla)
+
+</div>
+
+---
+
+## 🚀 About Me
+
+```python
+class SaiMani:
+    def __init__(self):
+        self.name = "Macherla Sai Mani Kumar"
+        self.role = "CSE-AI Student @ Amrita Vishwa Vidyapeetham"
+        self.location = "Guntur, India"
+        self.cgpa = 9.65
+        self.passion = "Building innovative solutions with AI & Cloud"
+        
+    def current_focus(self):
+        return [
+            "🤖 Computer Vision & Gesture Recognition",
+            "☁️ Cloud Computing & IoT Integration", 
+            "🧠 Machine Learning & Deep Learning",
+            "💡 Full Stack Development"
+        ]
+    
+    def future_goals(self):
+        return "Contributing to impactful open-source projects and solving real-world problems!"
+```
+
+---
+
+## 🛠️ Tech Arsenal
+
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Frameworks & Libraries
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+
+### Tools & Platforms
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+---
+
+## 🎯 Featured Projects
+
+### 🤖 [GestroBot](https://github.com/saimani1232/GestroBot)
+> **Real-time Gesture-Controlled Robot Interface**
+
+Bringing science fiction to life! Control a 3D humanoid robot with simple hand gestures.
+
+- 🎮 **Tech**: Python • OpenCV • MediaPipe • Unreal Engine
+- ✨ **Highlight**: Real-time hand tracking with 30+ FPS performance
+- 🎯 **Impact**: Seamless gesture-to-command translation for intuitive robot control
+
+---
+
+### 🎤 [VoiceBridge](https://github.com/saimani1232/VoiceBridge)
+> **Alexa-Powered IoT Device Controller**
+
+"Alexa, turn on the lights!" - Making smart homes smarter with voice commands.
+
+- 🎮 **Tech**: Alexa Skills Kit • AWS Lambda • IoT Simulation
+- ✨ **Highlight**: 99% accuracy in voice command execution
+- 🎯 **Impact**: Cloud-to-hardware integration showcasing serverless architecture
+
+---
+
+### 🍕 [Smart Bite](https://github.com/saimani1232/SmartBite)
+> **AI-Powered Food Waste Reduction System**
+
+Fighting food waste, one expiry date at a time!
+
+- 🎮 **Tech**: Python • OpenCV • Tesseract OCR • Flask • SMTP
+- ✨ **Highlight**: Automated expiry tracking with email notifications
+- 🎯 **Impact**: 40% reduction in food waste through smart reminders
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
   
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saimani1232&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saimani1232&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=saimani1232&theme=tokyonight&hide_border=true&background=0D1117)
+
 </div>
 
 ---
 
-### 🚀 **Featured Projects**
+## 🏆 Achievements & Certifications
 
-| Project | Description | Key Tech |
-| :--- | :--- | :--- |
-| **🤖 GestroBot** | Real-time **gesture-controlled interface** for a 3D humanoid robot. Uses MediaPipe for accurate hand landmark detection to control movement commands like Forward/Stop. | `Python` `OpenCV` `Unreal Engine` |
-| **🎙️ VoiceBridge** | Voice-controlled IoT ecosystem integrated with **Alexa & AWS Lambda**. Achieved **99% command accuracy** in simulated environments for virtual hardware control. | `AWS Lambda` `Alexa Skills Kit` `IoT` |
-| **🍎 Smart Bite** | Smart food management system using **OCR** to track expiry dates. Reduced food waste by **40%** through automated email alerts and recipe suggestions. | `Flask` `Tesseract OCR` `SMTP` |
-| **⛈️ StormSignal** | Real-time weather notification system that sends email alerts for rain forecasts. | `Python` `Weather API` `Flask` |
+🌟 **HackerRank**: 5-star ratings in Python & Java  
+🎓 **NPTEL Elite**: Joy of Computing using Python  
+☁️ **AWS Certified**: Cloud Practitioner  
+💻 **Competitive Coding**: 200+ problems solved across platforms  
+📚 **Research**: Battery Remaining Useful Life Using Boosting  
 
 ---
 
-### 📊 **GitHub Stats**
+## 📈 Coding Profiles
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saimani1232&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Sai Mani's Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saimani1232&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" height="150" />
-</div>
 
-<div align="center">
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saimani1232&theme=tokyonight&hide_border=true&background=0d1117" alt="Streak Stats" width="80%" />
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/Saimani)
+[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com/Saimani)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://codechef.com/Saimani)
+
 </div>
 
 ---
 
-### 🏆 **Achievements & Certifications**
+## 💡 Random Dev Quote
 
-- **AWS Certified Cloud Practitioner**
-- **NPTEL Elite Certification:** "Joy of Computing using Python"
-- **5-Star Gold Badge:** Python & Java (HackerRank)
-- **Top 5%:** LeetCode Global Ranking (Problem Solving)
+<div align="center">
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
 
 ---
+
+## 🤝 Let's Connect!
+
+I'm always excited to collaborate on innovative projects, contribute to open-source, or just chat about tech! Feel free to reach out:
+
 <div align="center">
-  <small>Profile updated by <a href="https://github.com/saimani1232">Macherla Sai Mani Kumar</a></small>
+
+📧 **Email**: macherlasaimani@gmail.com  
+📍 **Location**: Guntur, India  
+🎓 **University**: Amrita Vishwa Vidyapeetham  
+
+</div>
+
+---
+
+<div align="center">
+  
+### 💭 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
+
+![Profile Views](https://komarev.com/ghpvc/?username=saimani1232&color=blueviolet&style=for-the-badge)
+
+⭐️ From [saimani1232](https://github.com/saimani1232) with 💙
+
 </div>
