@@ -104,14 +104,7 @@ Fighting food waste, one expiry date at a time!
 
 <div align="center">
 <table>
-<tr>
 
-<td width="50%">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=saimani1232&theme=radical&hide_border=false" alt="GitHub Streak" />
-
-</td>
-</tr>
 </table>
 </div>
 
