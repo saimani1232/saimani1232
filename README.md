@@ -4,6 +4,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&random=false&width=600&lines=CS+%2B+AI+Engineering+Student;Full+Stack+Developer;Problem+Solver+%7C+200%2B+Problems;AWS+Cloud+Practitioner;Building+Cool+Stuff+%F0%9F%9A%80" alt="Typing SVG" />
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Website-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://saimani-portfolio.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-macherlasaimani%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:macherlasaimani@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Saimani-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/Saimani)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SaimaniMacherla)
@@ -102,12 +103,21 @@ Fighting food waste, one expiry date at a time!
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saimani1232&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saimani1232&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=saimani1232&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saimani1232&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" />
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=saimani1232&theme=tokyonight&hide_border=true&background=0D1117)
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=saimani1232&theme=tokyonight&hide_border=true&background=0D1117" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=saimani1232&theme=tokyo-night&hide_border=true&bg_color=0D1117" />
 
 </div>
 
@@ -151,9 +161,12 @@ I'm always excited to collaborate on innovative projects, contribute to open-sou
 
 <div align="center">
 
+🌐 **Portfolio**: [saimani-portfolio.vercel.app](https://saimani-portfolio.vercel.app/)  
 📧 **Email**: macherlasaimani@gmail.com  
 📍 **Location**: Guntur, India  
 🎓 **University**: Amrita Vishwa Vidyapeetham  
+
+[![Portfolio](https://img.shields.io/badge/🌐_Visit_My_Portfolio-FF6B6B?style=for-the-badge)](https://saimani-portfolio.vercel.app/)
 
 </div>
 
