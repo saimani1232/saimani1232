@@ -104,8 +104,7 @@ Fighting food waste, one expiry date at a time!
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=saimani1232&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true&include_all_commits=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saimani1232&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" />
+<img height="180em" src="![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saimani1232&show_icons=true&theme=radical)" />
 
 </div>
 
