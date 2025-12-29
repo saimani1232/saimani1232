@@ -105,14 +105,10 @@ Fighting food waste, one expiry date at a time!
 <div align="center">
 <table>
 <tr>
+
 <td width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=saimani1232&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-
-</td>
-<td width="50%">
-
-<img src="https://streak-stats.demolab.com?user=saimani1232&theme=radical&hide_border=false" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=saimani1232&theme=radical&hide_border=false" alt="GitHub Streak" />
 
 </td>
 </tr>
@@ -122,11 +118,7 @@ Fighting food waste, one expiry date at a time!
 <div align="center">
 <table>
 <tr>
-<td width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saimani1232&theme=radical&hide_border=false&layout=compact&langs_count=6" alt="Top Languages" />
-
-</td>
 <td width="50%">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=saimani1232&theme=radical" alt="Most Used Languages" />
@@ -138,7 +130,7 @@ Fighting food waste, one expiry date at a time!
 
 <div align="center">
 
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=saimani1232&theme=radical&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph" />
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=saimani1232&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph" />
 
 </div>
 
